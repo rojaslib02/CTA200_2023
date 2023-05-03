@@ -1,4 +1,4 @@
-    1  student02@home$ ssh cita_gw -N
+    1  !!!student02@home$ ssh cita_gw -N
     2  ssh student02@gw.cita.utoronto.ca
     3  ssh -g -L5906:lobster:5906 student02@gw.cita.utoronto.ca
     4  CITAvpn.ovpn
