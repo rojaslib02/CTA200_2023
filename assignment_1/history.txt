@@ -1,0 +1,289 @@
+    1  student02@home$ ssh cita_gw -N
+    2  ssh student02@gw.cita.utoronto.ca
+    3  ssh -g -L5906:lobster:5906 student02@gw.cita.utoronto.ca
+    4  CITAvpn.ovpn
+    5  ssh -g -L5906:lobster:5906 student02@gw.cita.utoronto.ca
+    6  ssh obster
+    7  ssh loobster
+    8  ssh lobster
+    9  /mnt/scratch-lustre 
+   10  /scratch-lustre 
+   11  find -name '*auss*'
+   12  cd/home/cta200
+   13  find -name '*auss*'
+   14  cd/home/cta200
+   15  cd /home/cta200.
+   16  cd /home/cta200
+   17  cd/home/cta200
+   18  cdhome/cta200
+   19  cd/home/cta200
+   20  ls
+   21  cd Research
+   22  ls
+   23  cd gauss2d
+   24  ls
+   25  cd Research
+   26  cd gauss2d
+   27  cd Research
+   28  ls
+   29  cd guass2d.cc
+   30  cd/home/cta200
+   31  cd..
+   32  cd ..
+   33  ls
+   34  cd guass2d
+   35  cd gauss2d
+   36  ls
+   37  cd ..
+   38  cd..
+   39  ls
+   40  cd/ home/cta200
+   41  cd /home/cta200
+   42  ls
+   43  cd Research
+   44  ls
+   45  cd gauss2d
+   46  ls
+   47  mkdir /mnt/scratch-lustre/$USER/gauss2d
+   48  cd
+   49  ls
+   50  cd /home/cta200
+   51  ls
+   52  cd Research
+   53  ls
+   54  cd gauss2d
+   55  ls
+   56  pwd
+   57  ls -ls
+   58  pwd
+   59  cd ..
+   60  ls
+   61  cd 
+   62  ls
+   63  pwd
+   64  mkdir gauss2d
+   65  ls -la
+   66  cd gauss2d
+   67  ls -la
+   68  cp -av /home/cta200/Research/gauss2d /mnt/scratch-lustre/student02/gauss2d
+   69  ls
+   70  g++ gauss2d.cc -o gauss2d
+   71  ls
+   72  cd gauss2d
+   73  less gauss2d.cc
+   74  cd
+   75  ls
+   76  cd gauss2d
+   77  ls
+   78  cd /home/cta200
+   79  ls
+   80  cd Research
+   81  cd gauss2d
+   82  ls
+   83  cp -av /home/cta200/Research/gauss2d /mnt/scratch-lustre/student02/gauss2d
+   84  cd
+   85  ls
+   86  cd gauss2d
+   87  ls
+   88  cd desktop
+   89  cd
+   90  cd Desktop
+   91  ls
+   92  cd
+   93  cd Documents
+   94  cd 
+   95  cd Documents
+   96  ls
+   97  cd
+   98  ls
+   99  cd Downloads
+  100  ls
+  101  cd
+  102  ls
+  103  cd gauss2d
+  104  ls
+  105  cd /home/cta200
+  106  ls
+  107  cd Research
+  108  ls
+  109  mv gauss2d /student02/to/gauss2d/
+  110  cd gauss2d
+  111  ls
+  112  cd -mv /home/cta200/Research/gauss2d /mnt/student02/gauss2d
+  113  cd mv /home/cta200/Research/gauss2d /mnt/student02/gauss2d
+  114  mv /home/cta200/Research/gauss2d /home/cta200/Results/
+  115  cp /home/cta200/Research/gauss2d /home/cta200/Results/
+  116  cp -r /home/cta200/Research/gauss2d* /home/studeny02/gauss2d
+  117  cd
+  118  cp -r /home/cta200/Research/gauss2d* /home/studeny02/gauss2d
+  119  cd
+  120  ls
+  121  cp -r /home/cta200/Research/gauss2d* /home/student02/gauss2d
+  122  cd
+  123  ls
+  124  cd gauss2d
+  125  ls
+  126  cd gauss2d
+  127  ls
+  128  module load python/2.7.12
+  129  module load python./script.py
+  130  module load python/3.9
+  131  module load python/3.9.4
+  132  nodule spider python/3.9.4
+  133  module spider python/3.9.4
+  134  module spider Wing
+  135  python
+  136  module load python
+  137  print(hello world)
+  138   print('hello world')
+  139  cd
+  140  ls
+  141  module load python
+  142  head -1 plot.py
+  143  python script.py
+  144  cd
+  145  python script.py
+  146  cd /home/cta200
+  147  python script.py
+  148  cd
+  149  ls
+  150  gauss2d
+  151  cd gauss2d
+  152  ls
+  153  cd gauss2d
+  154  ls
+  155  cd /home/cta200
+  156  ls
+  157  cd Research
+  158  ls
+  159  cd scratch luster
+  160  cd scratch-lustre
+  161  cd
+  162  cd /home/cta200
+  163  mkdir CTA200_2023
+  164  cd
+  165  mkdir CTA200_2022
+  166  cd
+  167  ls
+  168  cd CTA200_2022
+  169  ls
+  170  mkdir assignment_1
+  171  ls
+  172  cd
+  173  ls
+  174  cd CTA200_2022
+  175  mkdir README.md
+  176  ls
+  177  touch README.md
+  178  ls
+  179  vi README.md
+  180  cd murray
+  181  cd
+  182  cd murray
+  183  cd /murray/cta200
+  184  ls
+  185  cd CTA200_2022
+  186  l
+  187  ls
+  188  cd /home/murray
+  189  cd
+  190  cd /home/murray
+  191  ls
+  192  cp -av /home/murray/Hello_world.c /mnt/student02/CTA200_2022
+  193  pwd
+  194  cd
+  195  pwd
+  196  cd /home/murray
+  197  cp -av /home/murray/Hello_world.c* /mnt/home/student02/CTA200_2022
+  198  cd /home/murray
+  199  ls
+  200  cd Lbby
+  201  cd Libby
+  202  ls
+  203  cd ..
+  204  ls
+  205  cp /home/murray/Hello_world.py mv/home/student02/CTA200_2022
+  206  cp /home/murray/Hello_world.py* mr/home/student02/CTA200_2022
+  207  pwd
+  208  cp Hello_world.py hello_world.py
+  209  cd
+  210  cp /home/murray/Hello_world.c Hello_world
+  211  ls
+  212  cd Hello_world
+  213  ls
+  214  pwd
+  215  cd CTA200_2022
+  216  pwd
+  217  cp /home/murray/Hello_world.py Hello_world.py
+  218  ls
+  219  cp /home/murray/Hello_world.c Hello_world.c
+  220  ls
+  221  pwd
+  222  mv Hello_world.c Hello_world_Rojas.c
+  223  ls
+  224  mv Hello_world.py Hello_world_Rojas.py
+  225  ls
+  226  cd
+  227  module load gcc
+  228  gcc -o Hello_world.x Hello_world_Rojas.c
+  229  cd
+  230  pwd
+  231  ls
+  232  cd CTA200_2022
+  233  ls
+  234  module load gcc
+  235  gcc -o Hello_world.x Hello_world_Rojas.c
+  236  ./Hello_world.x
+  237  ssh -g -L5906:lobster:5906 student02@gw.cita.utoronto.ca
+  238  ssh username@gw.cita.utoronto.ca
+  239  https://www.google.com/search?client=safari&rls=en&q=ssh+student02%40gw.cita.utoronto.ca+%2Fcita%2Flocal%2Fbin%2Fpasswd&ie=UTF-8&oe=UTF-8
+  240  ssh student02@gw.cita.utoronto.ca /cita/local/bin/passwd
+  241  ssh -g -L5906:lobster:5906 student02@gw.cita.utoronto.ca
+  242  ssh -g -L5906:lobster:5906 student02@gw.cita.utoronto.ca
+  243  ssh -g -L5906:lobster:5906 student02@gw.cita.utoronto.ca
+  244  cd
+  245  ls
+  246  cd CTA200_2022
+  247  ls
+  248  vi Hello_world.x
+  249  vi Hello_world_Rojas.py
+  250  ./Hello_world_Rojas.py
+  251  ./Hello_world.x
+  252  vi Hello_world_Rojas.py
+  253  ./Hello_world_Rojas.py
+  254  history
+  255  ls
+  256  mv CTA200_2022 CTA200_2023
+  257  ls
+  258  cd CTA200_2023
+  259  python Hello_world_Rojas.py
+  260  brew install python
+  261  module load python
+  262  python Hello_world_Rojas.py
+  263  ./Hello_world.x
+  264  ./Hello_world.x > output_c.txt
+  265  python ./Hello_world_Rojas.py > output_python.txt
+  266  pwd
+  267  ls
+  268  mv Hello_world_Rojas.py home/student02/CTA200_2023/assignment_1
+  269  ls
+  270  cd
+  271  mv Hello_world_Rojas.py assignment_1
+  272  ls
+  273  CTA200_2023
+  274  cd CTA200_2023
+  275  ls
+  276  mv Hello_world_Rojas.py assignment_1
+  277  mv output_c.txt assignment_1
+  278  mv Hello_world_Rojas.c assignment_1
+  279  mv Hello_world.x assignment_1
+  280  mv output_python.txt assignment_1
+  281  ls
+  282  cd assignment_1
+  283  ls
+  284  ./Hello_world.x
+  285  history > assignment_1/history.txt
+  286  cd
+  287  cd CTA200_2023
+  288  ls
+  289  history > assignment_1/history.txt
