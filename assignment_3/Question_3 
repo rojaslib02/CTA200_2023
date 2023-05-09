@@ -1,0 +1,41 @@
+\documentclass[nobib]{MSword}
+
+% Preamble code:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage[english]{babel}
+\usepackage{csquotes}
+\usepackage{lipsum}
+\usepackage{amssymb}
+\usepackage{mathtools}
+\usepackage{indentfirst}
+\usepackage{graphicx,wrapfig,lipsum}
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% The document:
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\begin{document}
+
+
+\section*{Question 1}
+
+\begin{wrapfigure}{r}{7cm}
+\includegraphics[width=8cm]{p1.png}
+\caption{Mandelbrot set with color scale}
+\end{wrapfigure} 
+
+This first question asks us to create two images that show which points diverge and which stay bounded for the given equation, which creates the Mandelbrot set. To accomplish this, we first created a definition that allowed us to iterate the given function to go over all the points in the given range and determine if they diverged or not. Once this was done, three arrays were created. Two 1D arrays for the XY coordinates and one 2D array to store the counted iterations for each point in the complex plane. Lastly, using the definition and a nested loop are used to create the position of the number in the complex plane. Both numpy and matplotlib were used to accomplish the previous set of steps. To further improve our results, a color scale was added to help identify the iteration number at which the given point diverges (shown in Figure 1). 
+
+\section*{Question 2}
+
+\begin{wrapfigure}{r}{7.5cm}
+\includegraphics[width=8cm]{p2.png}
+\caption{Exponential Growth of Distance due to difference in initial conditions}
+\end{wrapfigure} 
+
+For this question, we were asked to code up Lorentz equations. To do this, a definition was created that depends on 5 parameters which are the system's current conditions (list of x,y,z values), time (t), and the three constants of the equation (r,b, sigma). The definition gives us the differential equation based on the set parameters. After specifying these parameters, the time of iteration is set and the equations are solved using an ODE solver (odient was chosen in this cause but solve\_ivp would also work). Having the equations solved we can graph Lorentz's figures; however, we can also use this to show the strong dependence of the system in the initial conditions. By changing one of the values of the initial conditions by only $1 \times 10^{-8}$, we should expect the results to be highly different. This is proven in Figure 2 which was created by taking the difference in distance between the original results and the slightly changed ones. As it can be seen, the difference grows exponentially fast showing how chaotic the system is (strong sensitivity to initial conditions).
+
+
+\end{document}
